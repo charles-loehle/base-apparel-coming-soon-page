@@ -149,7 +149,7 @@ img {
 }
 
 .btn:active {
-	transform: scale(0.98);
+	box-shadow: 0 10px 21px -4px rgb(242, 140, 140);
 }
 
 .btn:focus {
